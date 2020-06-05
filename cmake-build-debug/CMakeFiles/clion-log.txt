@@ -1,0 +1,8 @@
+"C:\IntelliJ\CLion\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\Mi\CLionProjects\mrzvis1
+CMake Error at CMakeLists.txt:6:
+  Parse error.  Expected a command name, got unquoted argument with text
+  "<<<<<<<".
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Mi/CLionProjects/mrzvis1/cmake-build-debug/CMakeFiles/CMakeOutput.log".
